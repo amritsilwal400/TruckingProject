@@ -1,0 +1,5 @@
+{
+  "name": "Trucking Problem Solver",
+  "description": "An intelligent application to optimize truck loading for shipments. Users can input package details, select truck types with specific constraints, and the app calculates the minimum number of trucks required and their packing arrangement using the Gemini API.",
+  "requestFramePermissions": []
+}
